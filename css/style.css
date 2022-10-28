@@ -35,3 +35,23 @@ a {
     color: #F4EF5E;
 }
 
+#sidebar li {
+    padding: 20px;
+}
+
+.sidebar-container {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.logo-doceria {
+    width: 60px;
+    height: 60px;
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
